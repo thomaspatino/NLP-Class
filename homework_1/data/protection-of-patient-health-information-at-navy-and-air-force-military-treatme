@@ -1,0 +1,66 @@
+
+
+May 2, 2018  —
+
+
+Objective:
+We determined whether the Departments of the Navy and Air Force designed and implemented effective security protocols to protect electronic health records (EHRs) and individually identifiable health information (patient health information[PHI]) from unauthorized access and disclosure. This report is the second in a series of reports on security protocols used by the Military Departments for protecting EHR and PHI systems. The first report (DODIG-2017-085) identified that the Defense Health Agency (DHA) and the Army did not consistently implement effective security protocols to protect systems that stored, processed, and transmitted PHI.  
+Background:
+We visited three Navy facilities—Naval Hospital Camp Pendleton, Camp Pendleton, California; San Diego Naval Medical Center, San Diego, California; and the U.S. Naval Ship (USNS) Mercy, San Diego, California; and two Air Force facilities, the 436th Medical Group, Dover, Delaware; and Wright-Patterson Medical Center, Dayton, Ohio.  We reviewed 17 information systems at the 5 locations:  3 DoD EHR systems, 3 modified EHR systems used aboard the USNS Mercy, 2 DHA owned, and 9 Service specific systems.  
+Findings:
+Officials from the DHA, Navy, and Air Force did not consistently implement security protocols to protect systems that stored, processed, and transmitted EHRs and PHI at the locations tested.  Specifically, we identified issues at the Naval Hospital Camp Pendleton; San Diego Naval Medical Center; USNS Mercy; 436th Medical Group; and Wright-Patterson Medical Center related to: 
+
+accessing networks using multifactor authentication;
+
+
+configuring passwords to meet DoD length and complexity requirements;
+
+
+mitigate known network vulnerabilities;  
+
+
+granting users access based on the user’s assigned duties;  
+
+
+configuring systems to automatically lock after 15 minutes of inactivity;
+
+
+reviewing system activity reports to identify unusual or suspicious activities and access; 
+
+
+developing standard operating procedures to manage system access;
+
+
+implementing adequate physical security protocols to protect electronic and paper records containing PHI from unauthorized access;
+
+
+maintaining an inventory of all Service specific systems operating that stored, processed, and transmitted PHI; and
+
+
+developing or maintaining privacy impact assessments. 
+
+Officials from the DHA, Navy, and Air Force did not consistently implement security protocols to protect systems that stored, processed, and transmitted EHRs and PH for a variety of reasons including lack of resources and guidance, system incompatibility, and vendor limitations. 
+Without well-defined, effectively implemented system security protocols, the DHA, Navy, and Air Force compromised the integrity, confidentiality, and availability of PHI.  In addition, ineffective administrative, technical, and physical security protocols that result in a violation of the Health Insurance Portability and Accountability Act (HIPAA) of 1996 could cost the MTFs up to $1.5 million per year in penalties for each category of violation.
+Recommendations:
+We recommend that the Director, DHA, configure the DoD EHR systems and other DHA owned systems that process, store, and transmit PHI to automatically lock after 15 minutes of inactivity.
+We recommend, among other actions, that the Surgeons General for the Departments of the Navy and Air Force, in coordination with the Navy Bureau of Medicine and Surgery and the Air Force Medical Service:
+
+assess whether the systemic issues identified in this report exist at other Service-specific MTFs; and 
+
+
+develop and implement an oversight plan to verify that MTFs enforce the use of Common Access Cards and configure passwords that meet DoD password complexity requirements to access systems that process, store, and transmit PHI.
+
+We also recommend, among other actions, that the MTF CIOs:
+
+develop a plan of action and milestones and take appropriate steps to mitigate known network vulnerabilities in a timely manner; 
+
+
+implement procedures to grant access to systems that process, store, and transmit PHI based on roles that align with user responsibilities; 
+
+
+configure all systems that contain PHI to automatically lock after 15 minutes of inactivity;
+
+Management Comments and Our Response:
+The DHA Director agreed that the DHA could potentially configure systems to lock automatically after a defined period of inactivity, but did not provide assurance that the DHA would configure its systems that process, store, and transmit PHI to lock automatically after 15 minutes of inactivity.
+The Navy Executive Director, Navy Bureau of Medicine and Surgery, agreed with all recommendations for the Navy Bureau of Medicine and Surgery and the Naval Hospital Camp Pendleton.  The Executive Director also agreed with 10 recommendations for the Naval Medical Center San Diego and disagreed with one recommendation.  However, recommendations for the Navy Bureau of Medicine and Surgery, Naval Hospital Camp Pendleton, and the Naval Medical Center San Diego are unresolved, and require additional comments. 
+In addition, the Air Force Surgeon General agreed with all 15 recommendations addressed to his office and the Air Force MTFs; however, one recommendation is unresolved and requires additional comments.  Furthermore, the Military Sealift Command Chief of Staff agreed with nine recommendations, partially agreed with two, and disagreed with one recommendation for the USNS Mercy.  However, the Chief of Staff identified additional controls and alternative actions that the USNS Mercy would implement that resolved all recommendations.  

@@ -1,0 +1,40 @@
+
+
+March 29, 2018  —
+
+
+Objective:
+We determined whether Missile Defense Agency (MDA) contractors implemented security controls and processes to protect classified and unclassified ballistic missile defense system (BMDS) technical information from internal and external threats. This audit focused on security controls at seven MDA contractor facilities. 
+We conducted this audit in response to a congressional requirement to audit the controls in place to protect classified and unclassified ballistic missile defense technical information, whether managed by cleared Defense contractors or by the Government. This is the first of two audits to determine whether the MDA effectively protects BMDS technical information from unauthorized access and disclosure.
+Background:
+On April 14, 2016, the MDA Director provided testimony to the House Armed Services Subcommittee on Strategic Forces expressing concern about the potential threat to systems containing BMDS technical information, especially technical information present on cleared Defense contractors’ systems. A cleared Defense contractor is a private company that is given clearance by the DoD to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any DoD program. The MDA Director stated that cleared Defense contractors may be subject to cyber attacks that allow unauthorized individuals to obtain access to controlled technical information.
+Findings:
+The seven MDA contractors that we audited did not consistently implement security controls and processes to protect classified and unclassified BMDS technical information. Specifically, system and network administrators at the seven contractors that managed BMDS technical information on their classified and unclassified networks did not consistently implement system security controls in accordance with Federal and DoD requirements for safeguarding Defense information. Specifically, we identified issues with:
+·        the use of multifactor authentication to access networks;
+·        password configurations;
+·        the assessment of risk to information systems and assets;
+·        identifying and mitigating network and system vulnerabilities
+·        overseeing network and boundary protection services provided by a third-party company;
+·        transferring controlled technical information to personal electronic devices, such as home computers;
+·        restricting the use of removable media;
+·        configuring systems to automatically lock;
+·        granting system access; and
+·        maintaining and reviewing system activity logs.
+Contractor system security controls were ineffective because the MDA did not oversee the contractors’ current or planned actions to protect BMDS technical information on classified and unclassified networks and systems before contract award or during the contract period of performance. If the MDA does not verify and monitor compliance with Defense Federal Acquisition Regulation Supplement (DFARS) and National Industrial Security Program Operating Manual requirements, contractors could inadvertently disclose critical technical details of the DoD’s BMDS components to U.S. adversaries and allow them to potentially circumvent the BMDS capabilities, leaving the United States vulnerable to deadly missile attacks.
+Recommendations:
+We recommend, among other recommendations, that the MDA Director for Acquisition:
+·        Establish a separate technical evaluation factor in the source selection process to evaluate whether an offeror’s approach to securing its networks and systems complied with DFARS clause 252.204-7012.
+·        Include penalty clauses in awarded contracts to levy monetary sanctions on contractors that fail to implement physical and logical security controls for protecting classified and unclassified BMDS technical information.
+·        Provide oversight to ensure that contractors comply with the National Institute of Standards and Technology requirements for protecting controlled unclassified information throughout the lifecycle of the contract.
+Management Comments and Our Response:
+
+The MDA Director partially agreed with our finding and recommendations, stating that he disagreed that the MDA plays a role in the contractors’ inability to effectively protect BMDS technical information. However, the Under Secretary of Defense, Acquisition, Technology, and Logistics issued a memorandum related to the implementation of DFARS clause 252.204-7012 that states if an agency determines that oversight related to security requirements is necessary, they may add requirements to the terms of the contract. The significant weaknesses identified in this report support the need for the MDA to oversee the contractors’ compliance with DFARS clause 252.204-7012 and National Institute of Standards and Technology requirements to ensure that the BMDS technical information maintained on contractor systems is protected against unauthorized access and disclosure. Therefore, the MDA Director should provide comments describing how the MDA plans to provide oversight of contractors to ensure compliance with DFARS clause 252.204-7012 and National Institute of Standards and Technology requirements for protecting BMDS technical information.
+Although the MDA Director agreed with three recommendations, the comments did not address the specifics of the recommendations to:
+·        submit system security plans and associated plans of action and milestones to verify compliance with DFARS clause 252.204-7012;
+·        establish a separate technical evaluation factor in the source selection process; and 
+·        take corrective actions against contractors that fail to meet Federal and DoD requirements for protecting classified and unclassified.
+In addition, the MDA Director Disagreed with recommendations to: 
+·        conduct risk assessments;
+·        include penalty clauses in awarded contracts; and
+·        provide oversight to ensure that contractors.
+Because the MDA Director did not address the specifics of three recommendations and disagreed with three others, the recommendations are unresolved.

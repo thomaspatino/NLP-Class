@@ -1,0 +1,31 @@
+
+
+June 13, 2018  —
+
+
+Objective:
+Our objective was to categorize and summarize cybersecurity weaknesses identified in unclassified reports issued and testimonies given by members of the DoD oversight community and the Government Accountability Office (GAO) between July 1, 2016, and June 30, 2017. Specifically, we categorized and summarized reports and testimonies by:
+
+the five functions identified in the National Institute of Standards and Technology “Framework for Improving Critical Infrastructure Cybersecurity,” February 12, 2014 (NIST Cybersecurity Framework), which is designed to help owners and operators of critical infrastructure identify, assess, and manage cyber risk; and
+
+
+the seven “FY 2017 Inspector General Federal Information Security Modernization Act of 2014 (FISMA Reporting Metrics,” which are designed to determine the effectiveness of an agency’s information security program and practices. 
+
+Summary
+Cybersecurity is critical to DoD operations; however, cybersecurity remains a significant challenge for the DoD. Executive Order 13800 mandates that agencies use the NIST Cybersecurity Framework to manage cybersecurity risk. The five functions in the NIST Cybersecurity Framework Core also provide a strategic view of cybersecurity risk management. 
+In summarizing 29 unclassified reports and 1 unclassified testimony issued by the DoD oversight community and GAO between July 1, 2016, and June 30, 2017, we determined that the DoD still faces challenges in key cybersecurity risk areas pertaining to Identify, Protect, and Detect functions. These three functions are designed to help an organization to understand its cybersecurity risks, implement appropriate safeguards, and identify cybersecurity events. Specifically, the reports we reviewed identified:
+
+weaknesses in establishing or maintaining inventories for information systems, hardware, and software licenses; 
+
+
+weaknesses in system account and password management as well as in physical access to information technology assets;
+
+
+weaknesses in vulnerability and configuration management as well as incident response testing and continuity planning and testing; and
+
+
+weaknesses in the Security Continuous Monitoring and Detection Processes categories of the Detect function. Security continuous monitoring of information systems is used to identify cybersecurity events while detection processes are used to ensure timely and adequate awareness of anomalous events. 
+
+In addition to summarizing the reports and aligning them within the NIST Cybersecurity Framework, we also reviewed the reports to identify findings relevant to the IG FISMA Reporting Metrics. FISMA requires each federal agency to develop, document, and implement an Agency-Wide information security program to protect the information and information systems supporting agency operations and assets. FISMA also requires federal IGs to conduct an annual independent evaluation to determine the effectiveness of the agency’s information security program and practices and report the results to the Office of Management and Budget. We used the summarized findings and recommendations when developing this report to support the DoD IG annual independent evaluation and reporting requirement, which we communicated to the DoD Chief Information Officer on October 31, 2017. 
+Of the 29 unclassified reports and 1 unclassified testimony we reviewed, we identified 26 reports that identified DoD weaknesses associated with the seven FY 2017 IG F ISMA Reporting Metrics. The metrics with the most frequent weaknesses identified in the reports were the Risk Management, Identity and Access Management, and Configuration Management metrics. The 26 reports are a subset of the 29 reports that pertained to the NIST Cybersecurity Framework functions, and the most pervasive DoD cybersecurity weaknesses are discussed in the first paragraph of this Summary.
+To help ensure that the DoD provides adequate oversight of the DoD risks pertaining to the NIST Cybersecurity Framework and the IG FISMA Reporting Metrics, we plan to discuss the results of this DoD cybersecurity summary project at future meetings of the Defense Council on Integrity and Efficiency (DCIE) Information Technology Committee and use these results in planning reviews of cybersecurity by DoD oversight organizations. Finally, we also intend to include classified reports in future cybersecurity summary reviews to provide a fuller summary of oversight of DoD cybersecurity activities.

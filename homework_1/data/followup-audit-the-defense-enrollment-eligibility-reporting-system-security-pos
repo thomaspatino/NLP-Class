@@ -1,0 +1,55 @@
+
+
+March 30, 2018  —
+
+
+
+
+
+Objective:
+We determined whether the Defense Manpower Data Center (DMDC) implemented corrective actions to remediate physical and cybersecurity weaknesses identified in Report No. DODIG-2012-090, “Improvements Needed to Strengthen the Defense Enrollment Eligibility Reporting System Security Posture,” May 22, 2012.
+Background:
+The DMDC is a DoD field activity responsible for supporting the information management needs of the Office of the Under Secretary of Defense for Personnel and Readiness and reports to the Defense Human Resources Activity. The DMDC is responsible for managing, maintaining, and securing the Defense Enrollment Eligibility Reporting System (DEERS), which serves as a centralized DoD data repository containing personnel and medical data for Uniformed Service members, retirees, and their family members, DoD civilians‘ and DoD contractors. 
+DoD Office of Inspector General (DoD OIG) Report No. DODIG-2012-090 identified that DMDC management did not implement 33 cybersecurity controls for protecting DEERS from internal and external cyber threats. Specifically, 16 cybersecurity controls related to protecting DEERS security posture, 11 related to unauthorized access to DEERS, and 6 related to DEERS configuration management. The report contained 32 recommendations for DMDC officials to improve the DEERS security posture.
+Findings:
+We determined that DMDC management implemented 28 of the 32 recommendations from Report No. DODIG-2012-090 and did not complete corrective actions for 4 recommendations. Specifically:
+
+
+the DMDC personnel did not apply the [corrective actions] because the DEERS servers have limited connectivity to the DoD Non-secure Internet Protocol Router Network; 
+
+
+the DMDC Division Director relied on Employee Action Request Forms (EAFs) to out-process personnel and did not establish a centralized method;
+
+
+the DMDC Division Director EAF process did not include trusted agents for completing out-processing actions; and
+
+
+the DMDC Information System Security Officer did not implement a standard schedule for scans to verify and document the operational functionality of all [equipment].
+Until DMDC increases their security posture, DEERS will continue to be vulnerable to increased cyberattacks that could jeopardize the integrity and confidentiality of sensitive DEERS data.
+
+
+
+
+Recommendations:
+We recommend that the Director, DMDC:
+
+
+update in accordance with National Institute of Standards and Technology Special Publication (NIST SP) 800-53 requirements,
+
+
+
+
+establish a centralized procedure for out-processing terminated personnel,
+ 
+
+
+identify and appoint trusted agents responsible for out-processing personnel, and
+ 
+
+
+identify and establish a standardized scan schedule
+
+
+
+Management Comments and Our Response:
+During the audit, we notified the Director, DMDC, that corrective actions had not been completed for four of the recommendations from Report No. DODIG-2012-090. The Director initiated corrective actions during the follow-up audit to address the four recommendations. These recommendations from the original report are still open and we will close the recommendations once we verify that DMDC personnel have taken their agreed upon actions.

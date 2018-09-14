@@ -1,0 +1,47 @@
+
+
+May 10, 2017  —
+Objective
+We determined whether DoD Components reported complete and accurate information technology (IT) systems data into the DoD Information Technology Portfolio Repository (DITPR).
+Background
+DoD guidance states that DITPR is the authoritative unclassified inventory of the DoD’s mission-critical and mission-essential IT systems. Mission-critical IT systems are necessary to continue warfighter operations and direct mission support of warfighter operations, while mission-essential IT systems are basic and necessary to accomplish an organization’s mission. DITPR contains information required for analyzing DoD inventory, portfolios, and capabilities. As of April 2016, DITPR contained system information for 6,169 individual IT systems across 47 DoD Components.
+Finding
+DoD Components did not report complete and accurate IT system data in DITPR for 19 of the 31 IT systems in our nonstatistical sample. Specifically:
+
+4 systems had incorrect mission assurance categories;1
+3 systems should not have been reported in DITPR as active IT systems;
+4 systems were incorrectly categorized as National Security Systems,2 as defined by the National Institute of Standards and Technology; and
+11 systems had an inaccurate number of interfacing systems.3 Interface is defined as a common boundary between independent systems or modules where interactions take place.
+
+Additionally, through reviews of all 6,169 IT systems reported in DITPR as of April 20, 2016, we identified 2,992 IT systems with incomplete data. DoD Components did not report complete and accurate IT system data in DITPR because the DoD Chief Information Officer did not:
+
+hold Component Chief Information Officers accountable for ensuring the completeness and accuracy of IT system data in DITPR;
+
+
+ensure DoD Components corrected errors identified during periodic data reviews; or
+
+
+require adequate DITPR training for DoD Component personnel.
+
+The DoD cannot rely on DITPR data and has spent at least $30.8 million since 2004 to operate, maintain, and update a system that contains incomplete and inaccurate IT system data. Unless data quality is improved, the DoD cannot effectively plan for the continued operations of mission-critical and mission-essential IT systems, use DITPR for decision making as intended, or support statutory compliance reporting. For example, inaccurate and incomplete interfacing system information limits DoD’s ability to plan for IT system disruptions. Because disruptions in one IT system can result in disruptions in interfacing systems, it is critical for contingency planning that interface data is accurate and complete. Unexpected disruption in the use of a mission-critical or mission-essential IT system could negatively impact warfighter operations or direct mission support for warfighter operations.
+Recommendations
+We recommend that the DoD Chief Information Officer:
+
+establish a process that holds DoD Component Chief Information Officers accountable for the completeness and accuracy of IT system data in DITPR;  
+
+
+notify IT system owners of data deficiencies, give deadlines for corrections, and regularly follow up with DoD Components to ensure resolution; and
+
+
+require DITPR training for all DITPR users and IT system owners and add training content on DITPR’s purpose, statutory requirements, and relationship to DoD feeder systems.
+
+Management Comments and Our Response
+The Acting Principal Deputy, DoD Chief Information Officer, commenting for the DoD Chief Information Officer, addressed all specifics of the recommendations to hold DoD Component Chief Information Officers accountable for the completeness and accuracy of DITPR data and to notify IT system owners of data deficiencies, provide deadlines for corrections, and regularly follow up with DoD Components to ensure resolution. Therefore, the recommendations are resolved and will be closed once we verify that a semiannual data quality review process is initiated and monthly data quality checks include the setting of deadlines and followup to ensure resolution of data deficiencies.
+The Acting Principal Deputy, DoD Chief Information Officer, commenting for the DoD Chief Information Officer, partially addressed the recommendation to require DITPR training for all DITPR users and to add training content on DITPR’s purpose, statutory requirements, and relationship to feeder systems. Therefore, the recommendation is unresolved. The DoD Chief Information Officer should provide comments to the final report specifying how he will require all DITPR users to complete the necessary training. We request that the DoD Chief Information Officer provide comments to the final report by June 9, 2017.
+ 
+
+ 1 A mission assurance category is assigned to systems based on the importance of the system to the achievement of DoD goals and objectives. Level I systems are vital to operational readiness or mission effectiveness, level II systems are important to operational readiness and effectiveness, and level III systems are necessary for the conduct of day-to-day business.
+ 
+ 2 National Security Systems are systems that involve (1) intelligence activities, (2) national security cryptologic activities, (3) command and control of military forces, or (4) equipment that is part of a weapon or weapon system; and systems that are (5) critical to the direct fulfillment of military or intelligence missions; or (6) classified by Executive Order or Act of Congress.
+ 3 The total number of systems with errors –19– does not equal the sum of the errors –22– because three systems had more than one inaccuracy.  
+This report is as a result of Project No. D2016-D000RA-0129.000.

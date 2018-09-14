@@ -1,0 +1,47 @@
+
+
+July 10, 2018  —
+
+
+Objective:
+We determined whether the Defense Finance and Accounting Service (DFAS) implemented corrective actions for the recommendations in Report No. DODIG-2017-015, “Application Level General Controls for the Defense Cash Accountability System Need Improvement,” November 10, 2016, and determined whether those actions corrected the reported problems.
+Background:
+Report No. DODIG-2017-015 identified that the Defense Cash Accountability System (DCAS) application level general controls that DFAS administered in FY 2016 did not operate effectively. Specifically, we made 20 recommendations to mitigate vulnerabilities in security management, access, configuration management, and contingency planning controls.
+Finding:
+Business Enterprise Information Services (BEIS) Office personnel implemented corrective actions that improved the design and operating effectiveness of several key application level general controls including security management, access controls, configuration management, and contingency planning. This occurred because BEIS Office personnel developed, revised, disseminated, and implemented policies and procedures and trained personnel on the specific requirements for application level general controls. As a result, selected controls were operating effectively to minimize risks associated with the intent of the controls, and 11 of 20 prior recommendations are closed.
+Additionally, BEIS Office personnel made control design improvements in access and configuration management controls, meeting the intent of four additional recommendations, which are closed. However, BEIS Office personnel have not yet verified that four controls related to access and configuration management controls are operating as intended. BEIS Office personnel need to take additional actions to demonstrate the successful implementation of these controls. Without confirmation that these access and configuration management controls were operating as intended, DCAS remains vulnerable to inappropriate user access and critical system discrepancies. 
+Although these control enhancements closed 15 recommendations, BEIS Office personnel need to make additional improvements to security management, configuration management, and contingency planning controls. Also, we redirected one prior recommendation related to table change documentation from BEIS Office personnel to DFAS Enterprise Shared Services (ESS) personnel because DCAS policy requires DFAS ESS personnel to verify and track that Master Data Table changes are authorized, configured, and operating effectively. Therefore, 5 of 20 prior recommendations remain open. Without proper controls, DCAS is vulnerable to availability interruptions and lost or incorrectly processed data. Consequently, the DoD could experience financial losses from expensive efforts to recover financial data, and DoD leadership’s reliance on inaccurate or incomplete financial data processed to make critical decisions. 
+Finally, the Defense Information Systems Agency (DISA) Customer Service Representative did not perform the 2017 annual review of the DCAS Service Level Agreement to ensure agreements by all DCAS parties are still applicable for the next 12 months. This occurred because the Revenue Branch Chief did not instruct the DISA Customer Account Representative of the annual review requirement. As a result, necessary financial or service level changes may not occur, which could impact the performance of DCAS which DoD uses to process and report its disbursement and collection of funds to the U.S. Treasury and DoD.
+Recommendations:
+As a result of our followup, we recommend that the DFAS BEIS and Other Systems Director:
+
+review and verify policies and procedures to execute periodic user reviews are operating effectively by documenting that 100 percent of sensitive users are reviewed each quarter and 100 percent of authorized users are reviewed within the last year;
+
+
+review and verify that privileged user reviews are conducted within consistent timeframes from the end of each quarter;
+
+
+refine, implement, and verify that the procedures for reviewing exception reports identify all exceptions that require followup or corrective actions;
+
+
+review and verify policies and procedures to execute and approve emergency changes as required;
+
+
+monitor the status of four open recommendations and expedite corrective actions to close them;
+
+
+demonstrate that supervisors, Information Owners and their representatives, and Center Administrators have been trained to ensure that requested access levels to perform non-sensitive activities are appropriate before approving the System Authorization Access Requests and authorizing each user account; and
+
+
+coordinate with DISA to schedule and conduct the annual DCAS Information System Contingency Plan testing within a year of the prior testing. 
+
+In addition, we redirected one recommendation to the DFAS Operations Deputy Director to verify changes made by the Table Administrators to the DCAS Master Data Tables are authorized, tested, approved, monitored, and tracked. 
+We also recommend that the DISA Defense Working Capital Fund Revenue Branch Chief train DISA Enterprise Services personnel on the requirements of Service Level Agreement guidance, including annual review and documentation requirements. 
+Additionally, we recommend that the DISA Operations Center Financial Resource Management Office Chief develop and implement procedures to ensure annual Service Level Agreement reviews are conducted.
+Management Comments and Our Response:
+The DFAS Information and Technology Director, responding for the DFAS BEIS and Other Systems Director, agreed with the recommendations to review, refine, implement, and verify policies and procedures to execute periodic user reviews, exception report reviews, and emergency changes consistently. Additionally, the Information and Technology Director agreed with the recommendation to coordinate with DISA to conduct annual DCAS Information System Contingency Plan testing no greater than every 12 months. Therefore, these recommendations are resolved but remain open. We will close the recommendations once we verify that BEIS Office personnel perform and document all user reviews consistently; that the reformatted exception report and revised procedures consistently identify exceptions; that the DCAS System Master Software Development Plan was updated to include emergency changes and the Configuration Control Board criteria; and that the DCAS Information System Contingency Plan was tested annually. 
+The DFAS Information and Technology Director, responding for DFAS BEIS and Other Systems Director, partially agreed with the recommendation to monitor the status of four open recommendations and expedite actions to close them. Specifically, the Information and Technology Director disagreed with the recommendation to require Information System Security Officers to comply with the certification requirements established in DoD Manual 8570.01-M.5 The Information and Technology Director stated that DFAS separated account management functions from privileged system administration functions, and personnel in this role were erroneously included in the DoD Chief Information Office Cybersecurity Strategy Workforce, of which personnel require cybersecurity certification. We disagree that the account managers are not privileged users. Therefore, this recommendation is unresolved and remains open. 
+The DFAS ESS Director, responding for the DFAS BEIS and Other Systems Director, agreed with the recommendation to train Information Owners, their representatives, and Center Administrators to authorize appropriate access levels before approving each user account. Additionally, the DFAS ESS Director agreed with recommendations to verify changes made by the Table Administrators to the DCAS Master Data Tables are authorized, tested, approved, monitored, and tracked. Therefore, these recommendations are resolved but remain open. We will close the recommendations once we obtain documentation and verify that only appropriate access levels are authorized and DCAS Table Administrators make only authorized, tested, approved, monitored, and tracked changes to the DCAS Master Data Table. 
+The DISA Operations Center Financial Management Division Chief, responding for the DISA Defense Working Capital Fund Revenue Branch Chief, agreed with the recommendation to train the Operations Center Financial Management Division personnel for Service Level Agreement review and documentation requirements. Additionally, the Chief agreed with the recommendation to develop and implement procedures to ensure the DISA Customer Account Representative conducts and documents the annual SLA review as required, stating that the Customer Account Representative Desk Guide was revised accordingly. Therefore, these recommendations are resolved but remain open. We will close the recommendations once we verify that the Desk Guide was revised and personnel review and update annual SLAs. 
+We request that the DFAS BEIS and Other Systems Director provide additional comments in response to this report.
+(This report is a result of Project No. D2017-D000FL-0141.000)

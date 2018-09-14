@@ -1,0 +1,40 @@
+
+
+Aug. 14, 2018  —
+
+
+Objective:
+We determined whether the Air Force Space Command implemented an adequate supply chain risk management program for four critical strategic systems. Specifically, we conducted a detailed review of the Space Based Infrared System and a limited review of the Air Force Satellite Control Network, the Family of Advanced Beyond Line-of-Sight Terminals, and the Global Positioning System. 
+We conducted this audit in response to a reporting requirement contained in House Report 114-537, to accompany House Report 4909, the National Defense Authorization Act for Fiscal Year 2017. This is the second in a series of audits on supply chain risk management for DoD strategic capabilities in response to the Congressional requirement.
+Background:
+The Space Based Infrared System is a follow-on capability to the Defense Support Program satellites, which help protect the U.S. and its allies by detecting missile launches, space launches, and nuclear detonation. 
+The Air Force Satellite Control Network is a global system providing command, control, and communications for space vehicles. 
+The Family of Advanced Beyond Line‑of‑Sight Terminals develops nuclear event-survivable terminals capable of communicating with satellite constellations using jam-resistant, low probability of intercept and low probability of detection waveforms for airborne, ground-fixed, and transportable applications.
+The Global Positioning System is a constellation of orbiting satellites that provides navigation data to military and civilian users all over the world. 
+The supply chain is the sequence of activities necessary to provide an end user with a finished product or system (from raw material to finished product). The activities include designing, manufacturing, producing, packaging, handling, storing, transporting, operating, maintaining, and disposing. 
+Supply chain risk is the vulnerability that an adversary may sabotage, maliciously introduce an unwanted function, or otherwise compromise the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of a system. The adversary may take these actions to surveil, deny, disrupt, or otherwise degrade the function, use, or operation of the system. 
+DoD supply chain risk management policy requires DoD organizations to identify critical information and communications technology components, purchase those components from trusted suppliers, and test and evaluate critical components for malicious threats.
+Finding:
+The Air Force Space Command established initiatives to manage supply chain risk for the Space Based Infrared System but did not fully implement DoD supply chain risk management policy. This occurred because the Air Force Space Command did not take the steps and establish the controls and oversight necessary to:
+·        conduct a thorough criticality analysis and identify all critical components and associated suppliers to manage risks to the system throughout its lifecycle;
+·        submit complete and accurate requests to conduct threat assessments of critical component suppliers;
+·        require the purchase of all application-specific integrated circuits from trusted suppliers using trusted processes that are accredited; or 
+·        ensure the use of rigorous test and evaluation capabilities, including developmental, acceptance, and operational testing
+In addition, our limited review of three other Air Force Space Command critical systems revealed concerns similar to those found with the Space Based Infrared System supply chain risk management. 
+As a result, an adversary has opportunity to infiltrate the Air Force Space Command supply chain and sabotage, maliciously introduce an unwanted function, or otherwise compromise the design or integrity of the critical hardware, software, and firmware.
+Recommendations:
+We recommend that the Air Force Space Command Commander develop a plan of action, with milestones, for the Space Based Infrared System to comply with DoD supply chain risk management policy. The plan should establish controls and oversight and require Air Force Space Command personnel to develop internal procedures or establish contract requirements to:
+·        improve the accuracy of the critical components list to manage risks to the Space Based Infrared System throughout its life cycle and require the identification of all critical logic-bearing hardware, software, and firmware, and the associated suppliers;
+·        improve the accuracy of the requests for supplier threat assessments and require the prioritization of the critical components on the requests and the inclusion of all key information needed to conduct the assessments;
+·        determine the risk posture and potential mitigations for all application-specific integrated circuits not procured from a trusted supplier using trusted processes that are accredited; and
+·        ensure the use of rigorous test and evaluation capabilities, including developmental, acceptance, and operational testing, and require establishment of verification and validation procedures for critical logic-bearing hardware, software, and firmware. 
+We also recommend that the Air Force Space Command Commander conduct a detailed review of the supply chain risk management for the Air Force Satellite Control Network, Family of Advanced Beyond Line-of-Sight Terminals, and Global Positioning System programs, and all other programs deemed critical to the Air Force Space Command, to ensure compliance with DoD supply chain risk management policy. If deficiencies are identified, Air Force Space Command officials must develop a plan of action with milestones to correct the deficiencies.
+Management Comments and Our Response:
+The Air Force Space Command Space and Missile Systems Center Vice Commander, responding for the Air Force Space Command Commander, agreed with the recommendations and stated that the Air Force Space Command will improve the supply chain risk management for the Space Based Infrared System and:
+·        conduct a criticality analysis to accurately identify and compile a parts list for all critical components;
+·        produce a critical components list that includes the break down for all logic-bearing devices to the component level and provide them with a request for information that includes all key information necessary to conduct threat assessments of critical item suppliers;
+·        use the supplier threat assessment reports to determine the risk posture and identify potential mitigations for application specific integrated circuits not procured from a trusted supplier using trusted processes that are accredited; and
+·        incorporate modernized requirements and verification processes to ensure the security of the program and perform verification and validation of these requirements using program protection surveys, independent third party assessors, and developmental and operational tests. 
+In addition, the Vice Commander agreed to conduct a supply chain risk management review of the Air Force Satellite Control Network, Family of Advanced Beyond Line-of-Sight Terminals, and Global Positioning System programs, and other programs deemed critical to the Air Force Space Command, to ensure compliance with DoD supply chain risk management policy. 
+The comments from the Vice Commander addressed our recommendations; therefore, the recommendations are resolved and will remain open. We will close the recommendations once the Vice Commander provides the documentation showing that the actions have been completed.
+(This report is a result of Project No. D2017-D000AG-0155.000)
